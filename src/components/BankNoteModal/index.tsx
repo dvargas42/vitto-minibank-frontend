@@ -105,7 +105,7 @@ export function BankNoteModal({ isOpen, onClose, value, handleInterceptionSignIn
               mr={8}
               onClick={handleSignIn}
             >
-              Save
+              Confirmar
             </Button>
           </ModalFooter>
         </ModalContent>
