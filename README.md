@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1623886915/vitto-minibank/Logo_m6k57a.png" width="500px">
+  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1623888226/vitto-minibank/Logo_cb3zek.png" width="500px">
 
 <h3 align="center">
   The React/NextJS app for Vitto Mini Bank Project.
